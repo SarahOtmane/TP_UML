@@ -1,4 +1,6 @@
 <?php 
+    require('./class/CompteBancaire.php');
+
     $name = 'Dupont';
     $solde = 1000;
 
